@@ -1,0 +1,11 @@
+# ------------------------
+# --   Maple Restart   --
+# ------------------------
+TimeInMinutesReset: 1440 
+ActionBar:
+  multicolorPrefix: WARNING
+  message: '{multicolor} &a&l&nOPFactions&b&l is going to restart in: &a&l&n{time}'
+NormalMessages:
+  message: '&a&l&nOPFactions&b&l is going to restart in: &a&l&n{time}'
+  oncommand: '&d&oTime left:&c&l &n{time}'
+  oncommandforce: '&aYou have forced to restart in 3 minutes!'

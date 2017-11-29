@@ -1,0 +1,8 @@
+name: MapleRestarts
+main: com.iiikillaiii.restarts.SR
+version: 1.0
+commands:
+   serverrestart:
+      description: reload cmd.
+      usage: /<command>
+      aliases: [sr, mr]
